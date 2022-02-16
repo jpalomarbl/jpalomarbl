@@ -10,11 +10,11 @@
 
 [<img src="./LI-In-Bug.png" width="40" height="35"/>](https://www.linkedin.com/in/jaime-sime%C3%B3n-palomar-blumenthal/?locale=en_US) [<img class="left-mrgn" src="./instagram-small-icon-12.jpg" width="35" height="35"/>](https://www.instagram.com/simeonpalmblue) [<img class="left-mrgn" src="./soundcloud.png" width="35" height="35"/>](https://www.instagram.com/simeonpalmblue)
 
-<style>
+<!-- <style>
 .left-mrgn {
     margin-left: 30px
 }
-</style>
+</style> -->
 
 
 <!--
