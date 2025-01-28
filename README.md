@@ -1,10 +1,10 @@
 ### Hello there! 👋
 
-🙋 My name is Simeón. I'm currently studying in the University of La Laguna, in Tenerife.
+🙋 My name is Simeón. I'm currently studying remotely in the Online University of Catalonia.
 
-💻 I consider myself a very creative person, that's why I'm interested in web development. I'm currently studying front and back end development to be able to make my own personal website.
+💻 I consider myself a very creative person, that's why I'm interested in web development. I'm currently studying front and back end development to be able to make a reality out of any web project.
 
-🎶 I'm also interested in music production. You can find my work on [Soundcloud](https://soundcloud.com/wololegend).
+🎶 I'm also interested in music production. You can find my work on [Spotify](https://open.spotify.com/intl-es/artist/5WiEvKfRO6yv5STAhzL6fJ?si=QY840lRtQDqmw-ZfG-_pCw).
 
 💬 Feel free to contact me via email: palomarblumenthaljaimesimeon@gmail.com
 
